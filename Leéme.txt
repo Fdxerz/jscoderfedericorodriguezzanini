@@ -1,0 +1,47 @@
+La verdad la consigna del simulador no sé si la entendí bien, siento que aun me faltan herramientas para armar un simulador serio, y sin dudas vi carritos de e-commerce en youtube, pero se adelantan varias clases
+
+Debido a eso preventivamente armé 3 posibilidades, las cuales probablemente podría implementar las 3 para mi proyecto
+Esperando que alguna o en su conjunto, logren demostrar que se trabajaron contenidos dentro del curso y cumplir con la preentrega
+
+Los 3 simuladores son
+*Un Ecommerce que funciona mediante Prompt sin Html&CSS, el cual presenta varios defectos
+1- Hay que escribir lo que se quiere comprar, y escribirlo perfecto, con mayúsculas, exacto
+2- No se pueden leer los artículos a comprar si ya aceptaste
+3- Si eliges mal un artículo, no es muy específico en que no lo sumó y te equivocaste, pero conociendo el programa te das cuenta
+Entre otros desperfectos
+
+*Un Convertidor de Divisas
+-El Dólar y Euro no se actualizan, están con el valor de la fecha de la entrega 6/5
+
+*Un Semáforo
+-Básico sin mucha estética
+
+
+El fin es aportar algo demostrar que se estuvo estudiando y que hay enfoque, y en caso de no cumplir con el propósito de la primer entrega, consultar en qué me debo enfocar, que herramientas debo usar, qué falta? para cumplir acordemente en una reentrega
+
+No voy a negar que me he ayudado por otros medios para lograr estos 3 simuladores, vi las clases, pero no se quizo imitar exactamente lo que el profesor hizo, por ejemplo, una página con alumnos y promedios, mediante prompt
+Y con las herramientas de las clases, no tuve el ingenio rápido para desarrollar algo, me he estancado varias veces, y he divagado queriendo lograr cosas con las cuales aun no tengo las herramientas, debido a eso me inspiré un poco en otros medios de aprendizaje
+En este momento me estoy encaminando en únicamente re-ver las clases y armar lo mas parecido a lo que se armó en clases, por si es necesario una re-entrega
+
+
+
+¿Qué tengo en mente como proyecto?
+Tenía pensado hacer un E-Commerce de Fantasía basado en un videojuego de granja, -StardewValley-
+La idea es repetir las tiendas del Juego, al menos la de cultivos -Pierre-
+
+El hecho de ser una Tienda de Fantasía y de un juego, abre opciones para que todo encaje mejor en el mundo, ya que no se tiene por qué centrar solo a la venta de cultivos
+El juego tiene carpintería, minería, pesca, sociales, cumpleaños, eventos, etc
+Lo cual hace que se puedan desarrollar proyectos de programación que tengan un buen encaje
+
+De tal forma aunque actualmente presenté un E-Commerce / Convertidor de Divisas / Semáforo
+
+Todo puede encajar en el proyecto
+Los E-Commerce, ventas de artículos dentro del juego
+
+Convertidor de Divisas, el juego tiene 2 monedas (Oro y QI)
+
+Semáforo - siempre es útil, es un tipo de animación en js, puede ser utilizado de varias formas, además hay un tren en Stardew Valley, y se lo puede utilizar en algún juego de clicks según como esté la luz
+Por ejemplo, un posible juego
+
+Podría ser que durante el tiempo que pasa el tren (Semáforo Luz Verde), arroja gemas de diferentes valores y hay que arrastrarlos hacia una cesta
+y al Final calcula lo ganado
