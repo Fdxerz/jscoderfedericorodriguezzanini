@@ -1,0 +1,53 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>TIENDA DE FRUTAS</title>
+    <link rel="stylesheet" href="../styles/tiendafrutas.css">
+</head>
+
+<div class="container">
+    <h1>TIENDA DE FRUTAS</h1>
+    <div class="productos">
+      <div class="producto">
+        <img src="../img/Strawberry.png" alt="Fresa">
+        <h3>Fresa</h3>
+        <p>$120</p>
+        <button onclick="agregarProducto('Fresa', 120)">Agregar al carrito</button>
+      </div>
+      <div class="producto">
+        <img src="../img/Orange.png" alt="Naranja">
+        <h3>Naranja</h3>
+        <p>$100</p>
+        <button onclick="agregarProducto('Naranja', 100)">Agregar al carrito</button>
+      </div>
+      <div class="producto">
+        <img src="../img/Grape.png" alt="Racimo de Uvas">
+        <h3>Racimo de Uvas</h3>
+        <p>$80</p>
+        <button onclick="agregarProducto('Racimo de Uvas', 80)">Agregar al carrito</button>
+      </div>
+    </div>
+    <div class="carrito">
+      <h2>Carrito de compras</h2>
+      <table>
+        <thead>
+          <tr>
+            <th>Producto</th>
+            <th>Precio</th>
+            <th>Cantidad</th>
+            <th>Subtotal</th>
+            <th></th>
+          </tr>
+        </thead>
+        <tbody id="carrito-body">
+        </tbody>
+      </table>
+      <p>Total: <span id="total"></span></p>
+      <button onclick="vaciarCarrito()">Vaciar carrito</button>
+    </div>
+  </div>
+
+  <script src="../scripts/tiendafrutas.js"></script>

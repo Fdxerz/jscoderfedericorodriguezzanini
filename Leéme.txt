@@ -1,47 +1,36 @@
-La verdad la consigna del simulador no sé si la entendí bien, siento que aun me faltan herramientas para armar un simulador serio, y sin dudas vi carritos de e-commerce en youtube, pero se adelantan varias clases
+No se han modificado La Tienda Anterior, el Semáforo y el Convertidor de Divisas
 
-Debido a eso preventivamente armé 3 posibilidades, las cuales probablemente podría implementar las 3 para mi proyecto
-Esperando que alguna o en su conjunto, logren demostrar que se trabajaron contenidos dentro del curso y cumplir con la preentrega
+Se agregó una Tienda de Frutas Nueva, el código es básico pero para salir del Prompt, Alert, y que se aprecie algo que sea mas integrado al html y css
 
-Los 3 simuladores son
-*Un Ecommerce que funciona mediante Prompt sin Html&CSS, el cual presenta varios defectos
-1- Hay que escribir lo que se quiere comprar, y escribirlo perfecto, con mayúsculas, exacto
-2- No se pueden leer los artículos a comprar si ya aceptaste
-3- Si eliges mal un artículo, no es muy específico en que no lo sumó y te equivocaste, pero conociendo el programa te das cuenta
-Entre otros desperfectos
-
-*Un Convertidor de Divisas
--El Dólar y Euro no se actualizan, están con el valor de la fecha de la entrega 6/5
-
-*Un Semáforo
--Básico sin mucha estética
+Se agrego una página para Cargar Info de Nuevos Usuarios Gym y comunicarlos mediante Prompt, el código también es simple, pero integra un poco mas, diferentes conceptos del curso, aunque de forma muy escasa
 
 
-El fin es aportar algo demostrar que se estuvo estudiando y que hay enfoque, y en caso de no cumplir con el propósito de la primer entrega, consultar en qué me debo enfocar, que herramientas debo usar, qué falta? para cumplir acordemente en una reentrega
-
-No voy a negar que me he ayudado por otros medios para lograr estos 3 simuladores, vi las clases, pero no se quizo imitar exactamente lo que el profesor hizo, por ejemplo, una página con alumnos y promedios, mediante prompt
-Y con las herramientas de las clases, no tuve el ingenio rápido para desarrollar algo, me he estancado varias veces, y he divagado queriendo lograr cosas con las cuales aun no tengo las herramientas, debido a eso me inspiré un poco en otros medios de aprendizaje
-En este momento me estoy encaminando en únicamente re-ver las clases y armar lo mas parecido a lo que se armó en clases, por si es necesario una re-entrega
+------------------------------
 
 
+La página de Usuarios Gym, no va de la Mano con la temática, después le cambio el contenido para que vaya con la temática, pero ahora eso es algo banal
 
-¿Qué tengo en mente como proyecto?
-Tenía pensado hacer un E-Commerce de Fantasía basado en un videojuego de granja, -StardewValley-
-La idea es repetir las tiendas del Juego, al menos la de cultivos -Pierre-
 
-El hecho de ser una Tienda de Fantasía y de un juego, abre opciones para que todo encaje mejor en el mundo, ya que no se tiene por qué centrar solo a la venta de cultivos
-El juego tiene carpintería, minería, pesca, sociales, cumpleaños, eventos, etc
-Lo cual hace que se puedan desarrollar proyectos de programación que tengan un buen encaje
+No sé que decir mas que seguir disculpándome, me está costando avanzar en el proyecto como me gustaría
+Lo cierto es que el objetivo del trabajo es presentar un Simulador y no 5, que sea lo mas completo
+Pero de momento cuesta tener la visión y articular todos los conceptos para que entre todo en uno, cada vez veo mas la forma de centralizar todo, en una sola página sin abrir nuevas pestañas, pero el código se vuelve mas difícil, y en js es mas fácil equivocarse, a veces solo por una mayúscula, y no ver resultados, además del abuso de los Prompt
 
-De tal forma aunque actualmente presenté un E-Commerce / Convertidor de Divisas / Semáforo
+Lo otro que tuve en mente, fue usar un botón en la tienda de Pierre para que el prompt se active al tocar el botón similar a usuariosgym, y de esa manera poder ver el contenido de la tienda desde html&css y poder escribir en el prompt mas cómodamente viendo exáctamente cómo se debe escribir, pero cometí algunos errores en el código y aun no llegué, seguramente mañana lo soluciono eso, pero debo entregar, así que lo sumo a una reentrega de la segunda de ser necesario, o tercer entrega
 
-Todo puede encajar en el proyecto
-Los E-Commerce, ventas de artículos dentro del juego
+Entiendo que el curso avanza muy rápido, que ya se viene la tercer entrega, y que faltan pocas semanas, así que desde esta segunda entrega, estoy con todo quemando pestañas, pero bueno a esta segunda entrega aun no puedo llegar como me gustaría
 
-Convertidor de Divisas, el juego tiene 2 monedas (Oro y QI)
+Tengo presente que estoy abusando del multisimulador, de proyectos separados, con conceptos separados, y que tengo que ser mas integrador en el simulador, sin dudas es algo en lo que voy a buscar enfocarme
 
-Semáforo - siempre es útil, es un tipo de animación en js, puede ser utilizado de varias formas, además hay un tren en Stardew Valley, y se lo puede utilizar en algún juego de clicks según como esté la luz
-Por ejemplo, un posible juego
+Si de los 5 simuladores tuviera que ordenarlos como mas acordes con esta segunda entrega, los ordenaría por orden de mayor prioridad
+1-usuariosgym
+2-Pierre
+3-tiendafrutas
+4-Divisas
+5-Semáforo
 
-Podría ser que durante el tiempo que pasa el tren (Semáforo Luz Verde), arroja gemas de diferentes valores y hay que arrastrarlos hacia una cesta
-y al Final calcula lo ganado
+
+De ser muy floja, agradecería conocer en qué me debería enfocar mas, si en el uso de objetos, arrays, if, loops, etc
+
+Gracias!
+
+
